@@ -1,0 +1,33 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+}
+
+.right-box {
+	height: 100%;
+	width: 33.33%;
+	background-color: #4A90E2;
+	float: left;
+}
+
+.middle-box {
+	height: 100%;
+	width: 33.33%;
+	background-color: #50E3C2;
+	float: left;
+}
+
+.right-top-box {
+	height: 75%;
+	width: 33.33%;
+	background-color: #B8E986;
+	float: left;
+}
+
+.right-bottom-box {
+	height: 25%;
+	width: 33.33%;
+	background: url(https://www.petfinder.com/wp-content/uploads/2012/11/122163343-conditioning-dog-loud-noises-632x475.jpg);
+	float: left;
+}
